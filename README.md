@@ -1,4 +1,4 @@
-# Genome2OR
+# Genome2RTP
 Annotate Olfactory receptor CDS from genome
 ==============================================
 
